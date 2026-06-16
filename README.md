@@ -1,8 +1,8 @@
-# Germany B2B Lead Intelligence Platform
+# yelp B2B Lead Intelligence Platform for germany
 
 ## Overview
 
-Germany B2B Lead Intelligence Platform is a high-throughput business data acquisition and enrichment system designed to collect publicly listed business information from Yelp across all 16 German federal states.
+ B2B Lead Intelligence Platform is a high-throughput business data acquisition and enrichment system designed to collect publicly listed business information from Yelp across all 16 German federal states.
 
 The platform goes beyond directory scraping by automatically discovering company websites, extracting contact information, enriching business profiles, removing duplicates, and generating structured lead databases for sales, market research, and business intelligence operations.
 
